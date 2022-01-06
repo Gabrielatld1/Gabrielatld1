@@ -1,4 +1,4 @@
-### Olá! Eu sou a Gabriela Nascimento. 👋
+### Olá 👋
 
 <div align="center">
   <a href="https://github.com/gabrielatld1">

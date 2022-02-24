@@ -1,8 +1,8 @@
 
 <div align="center">
   <a href="https://github.com/gabrielatld1">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielatld1&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielatld1&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gabrielatld1&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielatld1&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
   ##

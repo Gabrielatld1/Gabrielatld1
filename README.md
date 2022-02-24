@@ -1,6 +1,6 @@
 ✨ Hi, I'm Gabriela Nascimento 👋<br>
 👩🏻‍💻 Currently, I'm studying Front-End Development.<br>
-👾 In my free time I seek to learn database and programming languages like Java, Python and C#.
+👾 In my free time I seek to learn database and programming languages like Java, Python, C++ and C#.
 
 <div align="center">
   <a href="https://github.com/gabrielatld1">
